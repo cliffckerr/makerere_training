@@ -1,5 +1,5 @@
 '''
-Run Vietnam vaccine scenarios
+Run Uganda vaccine scenarios
 '''
 
 import numpy as np
